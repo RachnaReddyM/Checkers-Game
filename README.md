@@ -1,5 +1,9 @@
 # Checkers
 
+
+http://checkers-game.rachnareddym.com
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
