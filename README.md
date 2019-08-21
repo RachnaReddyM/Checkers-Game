@@ -2,6 +2,7 @@
 
 
 http://checkers-game.rachnareddym.com
+checkers.esethuraman.info
 
 
 To start your Phoenix server:
